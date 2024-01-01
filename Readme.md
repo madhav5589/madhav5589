@@ -12,8 +12,8 @@
 - 🌱 I try to convert my ideas in the form of scalable, secured and reliable Restful API's. 💜
 - 👯 I’m looking to collaborate on some open source projects and new opportunities.
 - 🤩 I have a keen interest in engaging with individuals within the technology domain, fostering meaningful conversations, and gaining insights into their professional experiences.
-- 💬 Feel free to inquire about subjects within my areas of interest. If you're wondering how to get in touch with me, I welcome your inquiry! 😅
-    - 🎇 [![dev.to badge](https://img.shields.io/badge/linkedin-madhavpatelcs-blue-blue)](https://www.linkedin.com/in/madhavpatelcs/)🎇
+- 💬 Feel free to reach out if you have any questions or would like to discuss topics within my areas of interest
+    - [My LinkedIn profile](https://www.linkedin.com/in/madhavpatelcs/)
 - 😁 I participate in Hackathons to build some cool projects and to explore new technology with the team💻.
 - 👨‍💻 Want to explore my work? [Here](https://github.com/madhav5589?tab=repositories) are my projects. Some of them are private projects which are under development.
 
@@ -23,6 +23,6 @@
 <a href="https://github.com/madhav5589">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav5589&hide=css,html&layout=compact" />
 </a>
-<a href="https://github.com/madhav5589">
+<!-- <a href="https://github.com/madhav5589">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav5589&show_icons=true" />
-</a>
+</a> -->
